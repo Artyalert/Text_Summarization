@@ -1,5 +1,8 @@
 # Text_Summarization
 
+## Download Dataset
+
+https://drive.google.com/file/d/1kwnLKkTsWkwLu4npk4PcdJugrllDBdRT/view?usp=sharing
 
 ## How to run (Google Collab)
 1. Download this repository and extract the file
